@@ -36,11 +36,11 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinayakMaharaj&theme=buefy&show_icons=true" /> -->
-  [![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinayakMaharaj)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <a href="https://github.com/AVS1508"> -->
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=VinayakMaharaj&theme=buefy&show_icons=true](https://github-readme-stats.vercel.app/api?username=VinayakMaharaj)" />
+<!--   [![Vinayak's GitHub stats(https://github-readme-stats.vercel.app/api?username=VinayakMaharaj)(https://github.com/anuraghazra/github-readme-stats) -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-</a>
+<!-- </a> -->
 
 <br/>
 
