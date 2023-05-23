@@ -34,15 +34,12 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 
-<br/>
+#STATS
 
-<!-- <a href="https://github.com/AVS1508"> -->
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=VinayakMaharaj&theme=buefy&show_icons=true](https://github-readme-stats.vercel.app/api?username=VinayakMaharaj)" />
-<!--   [![Vinayak's GitHub stats(https://github-readme-stats.vercel.app/api?username=VinayakMaharaj)(https://github.com/anuraghazra/github-readme-stats) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-<!-- </a> -->
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/cobalt/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/cobalt/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/cobalt/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/cobalt/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<br/>
 
 
 
