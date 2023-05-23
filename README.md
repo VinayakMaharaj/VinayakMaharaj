@@ -34,7 +34,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 
-#STATS
 
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/cobalt/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/cobalt/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/cobalt/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
