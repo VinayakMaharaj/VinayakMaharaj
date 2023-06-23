@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Statistics at University of Toronto.
+- 🤔 &nbsp; Exploring new technologies and coding techniques which interest me.
+- 🎓 &nbsp; Studying Computer Science and Statistics at University of Toronto ('25).
 - 💼 &nbsp; Currently seeking internship opportunities.
-- 🌱 &nbsp; Learning more about Next.JS, Redux, Tensorflow and Machine Learning
-- ✍️ &nbsp; Currently working on a portfolio website and other frontend development projects.
+- 🌱 &nbsp; Learning more about Next.JS, Natural Language Processing, Tensorflow and Machine Learning
+- ✍️ &nbsp; Currently working on a portfolio website and some other full stack development projects in my freetime :)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
