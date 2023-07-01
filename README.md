@@ -2,7 +2,8 @@
 
 <h2> Hey there! I'm Vinayak.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+# 👨🏻‍💻 About Me:
 
 - 🤔 &nbsp; Exploring new technologies and coding techniques which interest me.
 - 🎓 &nbsp; Studying Computer Science and Statistics at University of Toronto ('25).
@@ -10,7 +11,7 @@
 - 🌱 &nbsp; Learning more about Next.JS, Natural Language Processing, Tensorflow and Machine Learning
 - ✍️ &nbsp; Currently working on a portfolio website and some other full stack development projects in my freetime :)
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+# 🛠 Tech Stack:
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -57,7 +58,7 @@
   ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
   ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
-
+# 📊 GitHub Stats:
 <!-- <img align="left" alt="Vinayak's Github Stats" src="https://github-readme-stats-vinayakmaharaj.vercel.app//api?username=VinayakMaharaj&count_private=true" /> -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinayakMaharaj&theme=cobalt)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinayakMaharaj&theme=cobalt)
