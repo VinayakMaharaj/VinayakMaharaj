@@ -8,8 +8,8 @@
 - 🤔 &nbsp; Exploring new technologies and coding techniques which interest me.
 - 🎓 &nbsp; Studying Computer Science and Statistics at University of Toronto.
 - 💼 &nbsp; Currently seeking internship opportunities.
-- 🌱 &nbsp; Learning more about Next.JS, Natural Language Processing, Tensorflow and Machine Learning
-- ✍️ &nbsp; Currently working on a portfolio website and some other full stack development projects in my freetime :)
+- 🌱 &nbsp; Learning more about C++, Natural Language Processing, and Deep Learning
+- ✍️ &nbsp; Currently working on an event website and hopefully some more backend projects in the near future :)
 
 # 🛠 Tech Stack:
 
