@@ -3,9 +3,9 @@
 🎓 **University of Toronto graduate** with a B.Sc. in Computer Science and Statistics and a Math minor.  
 🚀 Passionate about building intelligent systems, LLM-powered tools, and delightful frontend experiences.  
 💡 Actively creating projects at the intersection of software engineering, AI agents, and real-world automation.  
-📚 When I’m not coding, I’m reading thrillers, exploring sports stats, or tracking F1 race predictions.  
+📚 When I’m not coding, I’m reading, or enjoying a good sports game.  
 
-📌 [LinkedIn](https://www.linkedin.com/in/vinayak-maharaj/) • [GitHub](https://github.com/VinayakMaharaj) • [Portfolio](https://vinayakmaharaj.netlify.app/) • [Goodreads]([https://goodreads.com](https://www.goodreads.com/user/show/165139028-vinayak))
+📌 [LinkedIn](https://www.linkedin.com/in/vinayak-maharaj/) • [GitHub](https://github.com/VinayakMaharaj) • [Portfolio](https://vinayakmaharaj.netlify.app/) • [Goodreads](https://www.goodreads.com/user/show/165139028-vinayak)
 
 ---
 
