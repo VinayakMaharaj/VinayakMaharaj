@@ -1,78 +1,87 @@
-## 👋 Hey there, I'm Vinayak.
+## 👋 Hi, I’m Vinayak
 
-🎓 **University of Toronto graduate** with a B.Sc. in Computer Science and Statistics and a Math minor.  
-🚀 Passionate about building intelligent systems, LLM-powered tools, and delightful frontend experiences.  
-💡 Actively creating projects at the intersection of software engineering, AI agents, and real-world automation.  
-📚 When I’m not coding, I’m reading, or enjoying a good sports game.  
+I’m a **Software Engineer** with a strong foundation in **Computer Science, Statistics, and Mathematics**, focused on building **practical, intelligent systems** that work end-to-end — from data and models to clean user experiences.
 
-📌 [LinkedIn](https://www.linkedin.com/in/vinayak-maharaj/) • [GitHub](https://github.com/VinayakMaharaj) • [Portfolio](https://vinayakmaharaj.netlify.app/) • [Goodreads](https://www.goodreads.com/user/show/165139028-vinayak)
+🎓 **B.Sc. Computer Science & Statistics**, University of Toronto (Math minor)  
+🧠 Background in ML, statistical modeling, and systems design  
+⚙️ Comfortable owning projects from architecture → implementation → deployment  
 
----
+I care about **clarity, focus, and execution** — shipping useful software, not hype.
 
-## 🧠 Currently Working On
-
-- 🤖 Building **AI-powered developer tools**, including an AI Git client and AI job manager agent  
-- 📊 Deploying a **Quantitative Trading Strategy** using ML, Twitter sentiment, and volatility forecasting  
-- 📚 A **Semantic Book Recommender** using vector databases, LangChain, and Hugging Face LLMs  
-- 💬 Building a full-stack **AI Email Assistant** with RAG & Gemini for automated smart responses  
+📌 [LinkedIn](https://www.linkedin.com/in/vinayak-maharaj/) •  
+🌐 [Portfolio](https://vinayakmaharaj.netlify.app/) •  
+📚 [Goodreads](https://www.goodreads.com/user/show/165139028-vinayak)
 
 ---
 
-## 💼 Open To Roles In
+## 🧭 What I’m Focused On
 
-- **Software Engineering** (Frontend-focused, full-stack or AI-integrated apps)  
-- **ML Engineering** (LLMs, smart agents, inference pipelines)  
-- **AI Agent & Automation Development** (RAG, LangChain, Vapi, Gradio)
+- **Applied AI & ML systems** (LLMs, RAG pipelines, inference workflows)
+- **Full-stack engineering** with strong backend fundamentals
+- **Automation & developer tooling** that saves real time
+- Writing clean, maintainable code that scales beyond demos
+
+I prefer **deep work on fewer things** over juggling many shallow projects.
 
 ---
 
-## 🧰 Tech Toolbox
+## 🛠 Selected Work
 
-**Languages & ML**  
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)  
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-f7931e?style=flat&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**AI Mock Interview Platform**  
+- Real-time AI voice interviews using Vapi + Gemini  
+- Secure auth, session tracking, and structured feedback storage  
+- Mobile-first dashboard with Next.js, Tailwind, shadcn/ui  
 
+**AI Email Copilot (SaaS)**  
+- Context-aware drafting & summarization with OpenAI  
+- Stripe subscriptions, Clerk auth, Prisma + PostgreSQL  
+- Vector search with Pinecone for intelligent retrieval  
 
+**AI GitHub Developer Tool**  
+- Repository analysis & Q&A using Gemini + RAG  
+- GitHub indexing pipeline with NeonDB & AssemblyAI  
+- Subscription access, webhooks, and secure auth  
 
-**Deployment & Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
+**Spring Boot E-Commerce Backend**  
+- JWT auth, RBAC, RESTful APIs  
+- JPA/Hibernate persistence & transactional integrity  
+
+(See pinned repos for details.)
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**  
+Python · TypeScript · JavaScript · Java · R · C  
+
+**AI / ML**  
+LangChain · OpenAI API · Hugging Face · PyTorch · scikit-learn  
+AWS Bedrock · SageMaker  
 
 **Frameworks**  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-323330?style=for-the-badge&logo=langchain&logoColor=green)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+React · Next.js · Node.js · Express · FastAPI · Spring Boot  
 
-**Databases & Cloud**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+**Data & Infra**  
+PostgreSQL · MongoDB · SQL · Prisma · Docker · AWS · Vercel  
 
 ---
 
-## 📈 GitHub Insights
+## 💼 Open To
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinayakMaharaj&theme=monokai)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VinayakMaharaj&theme=monokai)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinayakMaharaj&theme=monokai)  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VinayakMaharaj&theme=monokai)
+- **Software Engineering** (full-stack, backend-leaning)
+- **ML / AI Engineering** (LLMs, RAG, applied ML systems)
+- **Developer Tools & Automation**
 
+I’m especially interested in roles where I can **own systems end-to-end** and grow fast.
 
+---
 
+## 📈 GitHub Activity
 
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinayakMaharaj&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VinayakMaharaj&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinayakMaharaj&theme=monokai)
 
 
 
