@@ -86,14 +86,14 @@ From Trinidad and Tobago. Based in Toronto.
 
 ## GitHub Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VinayakMaharaj&theme=nord_dark)
+![](https://github-profile-summary-cards-three.vercel.app/api/cards/profile-details?username=VinayakMaharaj&theme=nord_dark)
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VinayakMaharaj&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VinayakMaharaj&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VinayakMaharaj&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VinayakMaharaj&theme=nord_dark&utcOffset=-4)
+![](https://github-profile-summary-cards-three.vercel.app/api/cards/repos-per-language?username=VinayakMaharaj&theme=nord_dark)
+![](https://github-profile-summary-cards-three.vercel.app/api/cards/most-commit-language?username=VinayakMaharaj&theme=nord_dark)
+![](https://github-profile-summary-cards-three.vercel.app/api/cards/stats?username=VinayakMaharaj&theme=nord_dark)
+![](https://github-profile-summary-cards-three.vercel.app/api/cards/productive-time?username=VinayakMaharaj&theme=nord_dark&utcOffset=-4)
 
 </div>
 
