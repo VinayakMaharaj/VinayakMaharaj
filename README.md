@@ -29,7 +29,7 @@ From Trinidad and Tobago. Based in Toronto.
 
 ## Selected Work
 
-**Maritime Financial Group** *(Software Engineer, Contract — Sep 2025 to June 2026)*
+**Maritime Financial Group** *(Software Engineer, Contract — Sep 2025 to October 2026)*
 - Built an end-to-end firewall and VPN anomaly detection pipeline ingesting 100k+ log events per week — automated risk scoring reduced manual analysis time by 70%
 - Designed a hybrid detection system combining a rules engine, Isolation Forest, and autoencoder over 5-minute windows, targeting login bursts and multi-region access anomalies with explainable per-alert scoring
 - Shipped a Next.js monitoring dashboard with grouped alerts, drill-down views, and trend analytics — cut average analyst investigation time per incident by 40% and reduced repeated false-positive escalations
