@@ -104,3 +104,13 @@ From Trinidad and Tobago. Based in Toronto.
 Software Engineering and ML/AI Engineering roles in Toronto — backend-leaning, full-stack, or anything at the intersection of AI and practical software. Especially interested in roles where I can own systems end-to-end.
 
 `vinayakcpa@gmail.com` · [vinayakmaharaj.dev](https://vinayakmaharaj.dev)
+
+
+<div align="center">
+  <a href="https://commit-history.com/VinayakMaharaj">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/VinayakMaharaj?theme=dark" />
+      <img alt="VinayakMaharaj's commit history" src="https://commit-history.com/embed/VinayakMaharaj" />
+    </picture>
+  </a>
+</div>
