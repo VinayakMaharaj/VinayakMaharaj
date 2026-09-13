@@ -13,7 +13,7 @@
 
 ---
 
-B.Sc. Computer Science & Statistics, University of Toronto (Mathematics minor, 2025). I build AI systems that run in production — LLM pipelines, RAG architectures, anomaly detection, full-stack SaaS. Currently doing research with Prof. Patrick Hosein at TTLab on zero-shot LLM reasoning in long-horizon decision environments.
+B.Sc. Computer Science & Statistics, University of Toronto (Mathematics minor, 2025). I build AI systems that run in production — LLM pipelines, RAG architectures, anomaly detection, full-stack SaaS. Recently completed research with Prof. Patrick Hosein at TTLab on zero-shot LLM reasoning in long-horizon decision environments, submitted to IEEE ICTMOD 2026.
 
 From Trinidad and Tobago. Based in Toronto.
 
@@ -21,18 +21,24 @@ From Trinidad and Tobago. Based in Toronto.
 
 ## What I'm Working On
 
-- **TTLab Research** — investigating where zero-shot LLM reasoning breaks down using Balatro as a controlled testbed. Benchmarking LLM agent decisions against a heuristic baseline across 50–100 seeded runs. Targeting AAAI 2027 / IEEE CoG 2027.
+- **Maritime KYC/AML Platform** — building a custom compliance platform for a financial services firm, replacing a legacy World-Check integration. Entity resolution over sanctions/PEP data using pgvector + LLMs, projected to save ~$200k/year and manage 300k+ client records
+- **"Can an LLM Play Balatro Without Ever Practicing?"** — submitted to IEEE ICTMOD 2026. Compared heuristic, zero-shot LLM, and RAG agents on long-horizon decision-making under uncertainty, using Balatro as a controlled testbed
 - **Applied AI systems** — production RAG pipelines, agentic workflows, LLM-powered SaaS
-- **Backend engineering** — production APIs, anomaly detection, data pipelines
 
 ---
 
 ## Selected Work
 
-**Maritime Financial Group** *(Software Engineer, Contract — Sep 2025 to October 2026)*
+**Maritime Financial Group** *(Software Engineer, Contract — Sep 2025 to present)*
+- Building a metadata-driven KYC/AML compliance platform replacing Refinitiv World-Check — sanctions/PEP screening with LLM-based entity resolution over pgvector, projected to save ~$200k/year and handle 300k+ client records
 - Built an end-to-end firewall and VPN anomaly detection pipeline ingesting 100k+ log events per week — automated risk scoring reduced manual analysis time by 70%
 - Designed a hybrid detection system combining a rules engine, Isolation Forest, and autoencoder over 5-minute windows, targeting login bursts and multi-region access anomalies with explainable per-alert scoring
 - Shipped a Next.js monitoring dashboard with grouped alerts, drill-down views, and trend analytics — cut average analyst investigation time per incident by 40% and reduced repeated false-positive escalations
+
+**["Can an LLM Play Balatro Without Ever Practicing?"](https://github.com/VinayakMaharaj/balatro_research)** *(IEEE ICTMOD 2026, submitted)*
+- Compared five agents — a floor baseline, a hand-coded heuristic, a zero-shot LLM, and two RAG variants — on long-horizon strategic decision-making in Balatro
+- Found zero-shot LLM reasoning matches a hand-coded heuristic outright, and that LLM reasoning *over* expert strategy knowledge beats deterministic execution of that same knowledge
+- Also trained a MaskablePPO RL agent to ~310M timesteps; documented its failure to learn long-horizon strategy as a finding on architectural insufficiency, not just an abandoned attempt
 
 **[Inbox Copilot](https://github.com/VinayakMaharaj/Inbox-Copilot)**
 - Built a production AI email client where reply drafts are grounded in real Gmail/Outlook history via LangChain + Pinecone RAG, with real-time inbox sync via Aurinko webhooks and multi-account support
@@ -72,7 +78,7 @@ From Trinidad and Tobago. Based in Toronto.
 | **AI / LLM** | LangChain · LLM APIs · RAG · Pinecone · pgvector · PyTorch · HuggingFace · scikit-learn · Vapi |
 | **Frontend** | Next.js · React · tRPC · GraphQL · Tailwind |
 | **Backend** | Node.js · Express · Prisma · Spring Boot · Flask |
-| **Infrastructure** | Docker · AWS · PostgreSQL · MongoDB · Firebase · Stripe · Fly.io · Vercel · Git |
+| **Infrastructure** | Docker · AWS · PostgreSQL · MongoDB · Firebase · Stripe · Fly.io · Vercel · Redis · Git |
 
 ---
 
