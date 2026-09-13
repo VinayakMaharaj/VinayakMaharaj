@@ -75,11 +75,10 @@ From Trinidad and Tobago. Based in Toronto.
 | | |
 |---|---|
 | **Languages** | Python · TypeScript · JavaScript · Java · SQL · R |
-| **AI / LLM** | LangChain · LLM APIs · RAG · Pinecone · pgvector · PyTorch · HuggingFace · scikit-learn · Vapi |
+| **AI / LLM** | LangChain · LLM APIs · RAG · Pinecone · pgvector · sentence-transformers · PyTorch · HuggingFace · scikit-learn · stable-baselines3 · Vapi |
 | **Frontend** | Next.js · React · tRPC · GraphQL · Tailwind |
-| **Backend** | Node.js · Express · Prisma · Spring Boot · Flask |
-| **Infrastructure** | Docker · AWS · PostgreSQL · MongoDB · Firebase · Stripe · Fly.io · Vercel · Redis · Git |
-
+| **Backend** | Node.js · Express · Prisma · NextAuth · Spring Boot · Flask |
+| **Infrastructure** | Docker · AWS (S3, SES) · Vercel · Railway · Supabase · PostgreSQL · MongoDB · Firebase · Upstash Redis · BullMQ · Stripe · Fly.io · Sentry · Weights & Biases · Git |
 ---
 
 ## Certifications
