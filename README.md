@@ -13,7 +13,7 @@
 
 ---
 
-B.Sc. Computer Science & Statistics, University of Toronto (Mathematics minor, 2025). I build AI systems that run in production — LLM pipelines, RAG architectures, anomaly detection, full-stack SaaS. Recently completed research with Prof. Patrick Hosein at TTLab on zero-shot LLM reasoning in long-horizon decision environments, submitted to IEEE ICTMOD 2026.
+B.Sc. Computer Science & Statistics, University of Toronto (Mathematics minor, 2025). I build AI systems that run in production — LLM pipelines, RAG architectures, anomaly detection, full-stack SaaS. Recently completed research with Prof. Patrick Hosein at TTLab on zero-shot LLM reasoning in long-horizon decision environments, accepted at IEEE ICTMOD 2026.
 
 From Trinidad and Tobago. Based in Toronto.
 
@@ -21,8 +21,8 @@ From Trinidad and Tobago. Based in Toronto.
 
 ## What I'm Working On
 
-- **Maritime KYC/AML Platform** — building a custom compliance platform for a financial services firm, replacing a legacy World-Check integration. Entity resolution over sanctions/PEP data using pgvector + LLMs, projected to save ~$200k/year and manage 300k+ client records
-- **"Can an LLM Play Balatro Without Ever Practicing?"** — submitted to IEEE ICTMOD 2026. Compared heuristic, zero-shot LLM, and RAG agents on long-horizon decision-making under uncertainty, using Balatro as a controlled testbed
+- **Maritime KYC/AML Platform** — building a custom compliance platform for a financial services firm, replacing a legacy World-Check integration. Entity resolution over sanctions/PEP data using pgvector + LLMs, with a 4-tier RBAC system and a config-driven risk-scoring engine
+- **"Can Generative AI be used to win at Balatro?"** — accepted at IEEE ICTMOD 2026. Compared heuristic, zero-shot LLM, and RAG agents on long-horizon decision-making under uncertainty, using Balatro as a controlled testbed
 - **Applied AI systems** — production RAG pipelines, agentic workflows, LLM-powered SaaS
 
 ---
@@ -30,15 +30,15 @@ From Trinidad and Tobago. Based in Toronto.
 ## Selected Work
 
 **Maritime Financial Group** *(Software Engineer, Contract — Sep 2025 to present)*
-- Building a metadata-driven KYC/AML compliance platform replacing Refinitiv World-Check — sanctions/PEP screening with LLM-based entity resolution over pgvector, projected to save ~$200k/year and handle 300k+ client records
+- Building a metadata-driven KYC/AML compliance platform replacing a third-party vendor system — sanctions/PEP screening with LLM-based entity resolution over pgvector, a config-driven risk-scoring engine, and a 4-tier RBAC system across 5 branches
 - Built an end-to-end firewall and VPN anomaly detection pipeline ingesting 100k+ log events per week — automated risk scoring reduced manual analysis time by 70%
 - Designed a hybrid detection system combining a rules engine, Isolation Forest, and autoencoder over 5-minute windows, targeting login bursts and multi-region access anomalies with explainable per-alert scoring
 - Shipped a Next.js monitoring dashboard with grouped alerts, drill-down views, and trend analytics — cut average analyst investigation time per incident by 40% and reduced repeated false-positive escalations
 
-**["Can an LLM Play Balatro Without Ever Practicing?"](https://github.com/VinayakMaharaj/balatro_research)** *(IEEE ICTMOD 2026, submitted)*
-- Compared five agents — a floor baseline, a hand-coded heuristic, a zero-shot LLM, and two RAG variants — on long-horizon strategic decision-making in Balatro
-- Found zero-shot LLM reasoning matches a hand-coded heuristic outright, and that LLM reasoning *over* expert strategy knowledge beats deterministic execution of that same knowledge
-- Also trained a MaskablePPO RL agent to ~310M timesteps; documented its failure to learn long-horizon strategy as a finding on architectural insufficiency, not just an abandoned attempt
+**["Can Generative AI be used to win at Balatro?"](https://github.com/VinayakMaharaj/balatro_research)** *(IEEE ICTMOD 2026, accepted)*
+- Compared five agents — a floor baseline, a hand-coded heuristic, a zero-shot LLM, and two RAG variants — on 347 controlled game trials of long-horizon strategic decision-making in Balatro
+- Found zero-shot LLM reasoning matches a hand-coded heuristic outright, and that LLM reasoning *over* expert strategy knowledge beats deterministic execution of that same knowledge on the paper's finer-grained metric
+- Also trained a MaskablePPO RL agent to ~310M timesteps; traced its failure to a reward-misspecification bug in the training environment's shop economy (the policy learned to hoard cash instead of buying upgrades) rather than a flaw in the RL algorithm itself
 
 **[Inbox Copilot](https://github.com/VinayakMaharaj/Inbox-Copilot)**
 - Built a production AI email client where reply drafts are grounded in real Gmail/Outlook history via LangChain + Pinecone RAG, with real-time inbox sync via Aurinko webhooks and multi-account support
